@@ -70,3 +70,4 @@ Fraud Detection using Decision Trees (synthetic dataset).
 - Best hyperparameters
 - Accuracy (Section 1)
 - Classification Report (Section 2)
+This repository is now managed by Ujjwal Gusain.
